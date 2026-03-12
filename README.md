@@ -2,33 +2,29 @@
 
 **Compliance Strategist & RegTech Builder**
 
-I'm a compliance executive with Big 4 consulting experience (EY, KPMG) advising global financial institutions, cryptocurrency exchanges, and investment advisors on BSA/AML program design, regulatory examination management, and compliance transformation. I'm also building the tools I wish existed throughout my career. 
+I'm a compliance executive with Big 4 consulting experience (EY, KPMG) advising global financial institutions, cryptocurrency exchanges, and investment advisers on BSA/AML program design, regulatory examination management, and compliance transformation. I'm also building the tools I wish existed throughout my career. 
 
 ---
-
-## What I Do
-
-I sit at the intersection of regulatory compliance and strategy. My goal is to translate complex financial crime obligations into operational programs, and now into software that makes those programs measurable and defensible.
 
 **Domain expertise:**
 - 🏦 BSA/AML program design and independent testing
 - 🔍 Regulatory examination management (FinCEN, OCC, state regulators)
 - 🪙 Crypto exchange compliance — MTL licensing, transaction monitoring, SAR workflows
 - 📋 Investment advisor compliance — compliance program design and gap assessments
-- 🕵️ Fraud investigations and forensic accounting (CFE)
+- 🕵️ Fraud investigations (CFE)
 - 📝 Policy and procedure development, risk assessments, training programs
 
 ---
 
 ## What I'm Building
 
-I build RegTech tools that reflect how compliance programs actually work — not how vendors assume they work.
+I build RegTech tools that reflect how compliance programs actually work.
 
 | Project | Description | Stack |
 |---|---|---|
-| [**Crypto Compliance Dashboard**](https://github.com/CJSTP/compliance-dashboard) | Tracks MTL license status, BSA/AML program health, and remedial action backlogs for crypto exchanges | Python · FastAPI · React · TypeScript |
+| [**Compliance Dashboard**](https://github.com/CJSTP/compliance-dashboard) | Tracks MTL license status, BSA/AML program health, and remedial action backlogs for crypto exchanges | Python · FastAPI · React · TypeScript |
 | **SAR Alert Queue** *(coming soon)* | Transaction monitoring alert triage and SAR investigation workflow | |
-| **Regulatory Calendar** *(coming soon)* | Filing deadline tracker for MSBs and investment advisors | |
+| **Regulatory Calendar** *(coming soon)* | Filing deadline tracker for MSBs and investment advisers | |
 | **AML Risk Scorer** *(coming soon)* | Customer risk scoring model based on FinCEN guidance | |
 
 🔗 **[Live Demo — Compliance Dashboard](https://compliance-dashboard-gamma.vercel.app)**
@@ -38,7 +34,7 @@ I build RegTech tools that reflect how compliance programs actually work — not
 ## Background
 
 - **Big 4 Advisory** — EY, KPMG: financial crime compliance, regulatory remediation, program buildouts
-- **Clients served:** Global banks, cryptocurrency exchanges, money services businesses, investment advisors
+- **Clients served:** Global banks, cryptocurrency exchanges, money services businesses, investment advisers
 - **Credential:** Certified Fraud Examiner (CFE)
 - **Focus areas:** Compliance program strategy, regulatory examination readiness, RegTech implementation
 
@@ -51,4 +47,4 @@ I build RegTech tools that reflect how compliance programs actually work — not
 
 ---
 
-*Currently open to Chief Compliance Officer and compliance strategy roles in FinTech and crypto.*
+*Currently open to senior compliance and strategy roles in TradFi, FinTech and crypto.*
