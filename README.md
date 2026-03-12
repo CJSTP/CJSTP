@@ -8,7 +8,7 @@ I'm a compliance executive with Big 4 consulting experience (EY, KPMG) advising 
 
 ## What I Do
 
-I sit at the intersection of regulatory compliance and technology — translating complex financial crime obligations into operational programs, and now into software that makes those programs measurable and defensible.
+I sit at the intersection of regulatory compliance and strategy. My goal is to translate complex financial crime obligations into operational programs, and now into software that makes those programs measurable and defensible.
 
 **Domain expertise:**
 - 🏦 BSA/AML program design and independent testing
