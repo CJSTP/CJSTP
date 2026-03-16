@@ -25,7 +25,7 @@ I build RegTech tools that reflect how compliance programs actually work.
 | [**Compliance Dashboard**](https://github.com/CJSTP/compliance-dashboard) | Tracks MTL license status, BSA/AML program health, and remedial action backlogs for crypto exchanges | Python · FastAPI · React · TypeScript |
 | **SAR Alert Queue** *(coming soon)* | Transaction monitoring alert triage and SAR investigation workflow | |
 | **Regulatory Calendar** *(coming soon)* | Filing deadline tracker for MSBs and investment advisers | |
-| **AML Risk Scorer** *(coming soon)* | Customer risk scoring model based on FinCEN guidance | |
+| [**AML Risk Scorer**](https://aml-risk-scorer.vercel.app)| Customer risk scoring model based on FinCEN guidance | |
 
 🔗 **[Live Demo — Compliance Dashboard](https://compliance-dashboard-gamma.vercel.app)**
 
