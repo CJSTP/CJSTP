@@ -35,7 +35,7 @@ I build RegTech tools that reflect how compliance programs and investigations ac
 
 ### On Horizon Scanning
 
-Most compliance tools show you what already happened. The enforcement intelligence platform has a second layer — **leading indicators** — built on the insight that regulators telegraph their priorities months or years before enforcement through exam priority letters, risk alerts, supervisory highlights, and proposed rulemaking.
+An enforcement intelligence platform, in addition to highlighted enforcment actions and regulatory trends provides **leading indicators**. Regulators telegraph their priorities months or years before enforcement through exam priority letters, risk alerts, supervisory highlights, and proposed rulemaking.
 
 The **Signal → Enforcement Linkage** view maps current regulatory focus areas (SEC OCIE priorities, CFPB Supervisory Highlights, FINRA annual reports, Federal Register rules) to observed enforcement patterns, answering the question institutions actually need answered: *what's being examined today that becomes an enforcement action in 12–24 months?*
 
