@@ -47,4 +47,4 @@ I build RegTech tools that reflect how compliance programs actually work.
 
 ---
 
-*Currently open to senior compliance and strategy roles in TradFi, FinTech and crypto.*
+*Currently open to senior compliance and strategy roles in Consulting, TradFi, FinTech and crypto.*
