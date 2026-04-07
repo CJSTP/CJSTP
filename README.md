@@ -2,7 +2,7 @@
 
 **Compliance Strategist & RegTech Builder**
 
-I'm a compliance executive with Big 4 consulting experience (EY, KPMG) advising global financial institutions, cryptocurrency exchanges, and investment advisers on BSA/AML program design, regulatory examination management, and compliance transformation. I'm also building the tools I wish existed throughout my career.
+I'm a compliance executive with Big 4 consulting experience advising global financial institutions, cryptocurrency exchanges, and investment advisers on BSA/AML program design, regulatory examination management, and compliance transformation. I'm also building the tools I wish existed throughout my career.
 
 ---
 
