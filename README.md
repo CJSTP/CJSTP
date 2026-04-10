@@ -11,7 +11,7 @@ I'm a compliance executive with Big 4 consulting experience advising global fina
 - 🔍 Regulatory examination management (FinCEN, OCC, state regulators)
 - 🕵️ Financial crime investigations, enforcement action analysis, and regulatory risk advisory (CFE)
 - 🪙 Crypto exchange compliance — MTL licensing, transaction monitoring, SAR workflows
-- 📋 Investment advisor compliance — compliance program design and gap assessments
+- 📋 Investment adviser compliance — compliance program design and gap assessments
 - 📝 Policy and procedure development, risk assessments, training programs
 
 ---
