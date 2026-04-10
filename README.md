@@ -24,12 +24,12 @@ I build RegTech tools that designed to enhance compliance programs and make life
 |---|---|---|
 | [**Enforcement Action Intelligence**](https://github.com/CJSTP/enforcement-dashboard) | Tracks $25B+ in real enforcement actions across SEC, CFPB, FINRA, FRB, OCC, and DOJ — with a **horizon scanning** layer that maps leading regulatory signals to emerging enforcement patterns | Python · FastAPI · React · TypeScript · PostgreSQL |
 | [**Compliance Dashboard**](https://github.com/CJSTP/compliance-dashboard) | Tracks MTL license status, BSA/AML program health, and remedial action backlogs for crypto exchanges | Python · FastAPI · React · TypeScript |
-| [**AML Risk Scorer**](https://aml-risk-scorer.vercel.app) | Customer risk scoring model based on FinCEN guidance | |
-| **SAR Alert Queue** *(coming soon)* | Transaction monitoring alert triage and SAR investigation workflow | |
-| **Regulatory Calendar** *(coming soon)* | Filing deadline tracker for MSBs and investment advisers | |
+| [**AML Risk Scorer**](https://aml-risk-scorer.vercel.app) | Customer risk scoring model based on FinCEN/FATF guidance — weighted scoring across 6 risk categories with automatic escalation rules | Python · FastAPI · React · TypeScript |
+| [**Product Compliance Engine**](https://product-compliance-engine.vercel.app) | Regulatory mapping and 5-stage approval workflow for fintech product launches — auto-generates federal, state, and feature-level compliance checklists | Python · FastAPI · React · TypeScript |
+| [**SAR Alert Queue**](https://sar-alert-queue.vercel.app) | Transaction monitoring alert triage and SAR investigation workflow — alert queue, escalation to SAR, narrative drafting, 30-day filing deadline tracking | Python · FastAPI · React · TypeScript |
+| [**Regulatory Calendar**](https://regulatory-calendar.vercel.app) | Filing deadline tracker for MSBs and investment advisers — BSA/AML, NMLS licensing, SEC filings, and state obligations with live status tracking | Python · FastAPI · React · TypeScript |
 
-🔗 **[Live Demo — Enforcement Dashboard](https://enforcement-dashboard-jzrx.vercel.app)**
-🔗 **[Live Demo — Compliance Dashboard](https://compliance-dashboard-gamma.vercel.app)**
+🔗 **[Enforcement Dashboard](https://enforcement-dashboard-jzrx.vercel.app)** · **[Compliance Dashboard](https://compliance-dashboard-gamma.vercel.app)** · **[AML Risk Scorer](https://aml-risk-scorer.vercel.app)** · **[Product Compliance Engine](https://product-compliance-engine.vercel.app)** · **[SAR Alert Queue](https://sar-alert-queue.vercel.app)** · **[Regulatory Calendar](https://regulatory-calendar.vercel.app)**
 
 ---
 
