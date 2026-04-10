@@ -33,6 +33,18 @@ I build RegTech tools that designed to enhance compliance programs and make life
 
 ---
 
+## Business Development & Client Intelligence Tools
+
+*Tools designed for client conversations — built on the insight that every active consent order is a consulting engagement waiting to be won.*
+
+| Project | Description | Stack |
+|---|---|---|
+| [**Client Intelligence Platform**](https://client-intelligence-ten.vercel.app) | Consent order opportunity tracker and pre-call intelligence brief generator — maps active enforcement actions to consulting service lines, quantifies fee potential, and produces institution-level briefs covering enforcement history, known vulnerabilities, and recommended engagements | Python · FastAPI · React · TypeScript |
+
+🔗 **[Live Demo — Client Intelligence Platform](https://client-intelligence-ten.vercel.app)**
+
+---
+
 ### On Horizon Scanning
 
 An enforcement intelligence platform, in addition to highlighted enforcment actions and regulatory trends provides **leading indicators**. Regulators telegraph their priorities months or years before enforcement through exam priority letters, risk alerts, supervisory highlights, and proposed rulemaking.
