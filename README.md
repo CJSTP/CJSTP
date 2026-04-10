@@ -2,7 +2,7 @@
 
 **Compliance Strategist & RegTech Builder**
 
-I'm a compliance executive with Big 4 consulting experience advising global financial institutions, cryptocurrency exchanges, and investment advisers on BSA/AML program design, regulatory examination management, and compliance transformation. I'm also building the tools I wish existed throughout my career.
+I'm a compliance executive with Big 4 consulting experience advising global financial institutions, cryptocurrency exchanges, and investment advisers on BSA/AML program design, regulatory examination management, and compliance transformation. I'm also building the tools I think would enhance compliance programs and resolve pain points. 
 
 ---
 
@@ -18,7 +18,7 @@ I'm a compliance executive with Big 4 consulting experience advising global fina
 
 ## What I'm Building
 
-I build RegTech tools that reflect how compliance programs and investigations actually work — not how vendors assume they work.
+I build RegTech tools that designed to enhance compliance programs and make life easier for in-house compliance progfessionals, and consultant. 
 
 | Project | Description | Stack |
 |---|---|---|
